@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KUAMRKT</title>
+    <link rel="stylesheet" href="https://bootswatch.com/4/minty/bootstrap.min.css" >
+</head>
+<body>
+<nav class="navbar navbar-expand-l navbar-dark bg-dark col-md-12">
+        <a href="#" class="navbar-brand">Tasks App</a>
+</nav>
+<div class="container-fluid">
+        <div class="row">
+            <div class="col-md-3">
+                    <button type="button" class="btn btn-secondary disabled my-sm-3 btn-block">Categoria</button>
+                    <button type="button" class="btn btn-secondary disabled my-sm-3 btn-block">Categoria</button>
+                    <button type="button" class="btn btn-secondary disabled my-sm-3 btn-block">Categoria</button>
+                    <button type="button" class="btn btn-secondary disabled my-sm-3 btn-block">Categoria</button>
+                    <button type="button" class="btn btn-secondary disabled my-sm-3 btn-block">Categoria</button>
+                    <button type="button" class="btn btn-secondary disabled my-sm-3 btn-block">Categoria</button>
+                    <button type="button" class="btn btn-secondary disabled my-sm-3 btn-block">Categoria</button>
+                    <button type="button" class="btn btn-secondary disabled my-sm-3 btn-block">Categoria</button>
+                    <button type="button" class="btn btn-secondary disabled my-sm-3 btn-block">Categoria</button>
+                    <button type="button" class="btn btn-secondary disabled my-sm-3 btn-block">Categoria</button>
+                    <button type="button" class="btn btn-secondary disabled my-sm-1 btn-block">Categoria</button>
+                    
+            </div>
+            <div class="col-md-8 bg-secondary disabled  my-sm-3 mx-sm-5">
+                <div class="col-md-4">
+                    
+                </div>
+            </div>
+        </div>
+        
+
+    </div>     
+        
+</body>
+</html>
