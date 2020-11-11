@@ -1,0 +1,10 @@
+<?php session_start();
+
+    if(isset($_SESSION['email'])) {
+        header('location: principal.php');
+    }else{
+        require 'index.php';
+    }
+
+
+?>
